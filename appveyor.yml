@@ -28,3 +28,5 @@ install:
 test_script: 
   - dir %TESTFOLDER% 
   - mvn -q --fail-at-end install -Pglassfish-embedded-arquillian -B 2>&1
+
+build: off

@@ -1,5 +1,5 @@
 environment:
-  TESTFOLDER : batch
+  TESTFOLDER : concurrency
   # matrix:  
     # - TESTFOLDER : batch
     # - TESTFOLDER : cdi
